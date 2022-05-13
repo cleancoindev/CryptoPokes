@@ -10,7 +10,7 @@
     "aos": "^2.3.4",
     "bootstrap": "^4.4.1",
     "react": "^16.13.1",
-    "react-card-flip": "^1.0.11",
+    "react-card-flip": "^1.1.5",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
